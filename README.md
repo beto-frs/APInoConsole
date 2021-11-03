@@ -11,7 +11,7 @@
 
 #### Screenshot
 
-![](img\print.png)
+<img src="\img\print.png" style="zoom:80%;" />
 
 
 
