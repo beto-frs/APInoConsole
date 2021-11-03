@@ -11,7 +11,7 @@
 
 #### Screenshot
 
-<img src="\img\print.png" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/beto-frs/APInoConsole/main/img/print.png" style="zoom:70%;" />
 
 
 
