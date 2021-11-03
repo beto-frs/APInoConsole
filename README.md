@@ -11,7 +11,7 @@
 
 #### Screenshot
 
-![](D:\PROJETOS\C#\APInoConsole\ConsultandoPrevisao\img\print.png)
+![](img\print.png)
 
 
 
